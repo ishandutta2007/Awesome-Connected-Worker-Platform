@@ -74,7 +74,7 @@ Open-source tools offer self-hostable, cost-effective building blocks for manufa
 
 ### ⭐ Top Open Source Repos (Ranked by Stars)
 
-*The repositories below are sorted in **descending order by GitHub star count**.*
+*The repositories below are sorted in **descending order by GitHub Stars_Count**.*
 
 1. **[Outline](https://github.com/outline/outline)** 📚  
    [![Stars](https://img.shields.io/github/stars/outline/outline?style=social&color=white)](https://github.com/outline/outline/stargazers)  
@@ -174,7 +174,7 @@ Contributions are warmly welcome! Please follow these simple steps to add or upd
 2. Edit `README.md` to add your platform or open-source tool.
 3. Ensure all entries follow the format:
    - **SaaS**: Include product link, estimated company size, features, specific starting price, and exact free tier/trial limits.
-   - **Open Source**: Include star count badge linking to `stargazers`, concise description, license, and maintain star-count descending order.
+   - **Open Source**: Include Stars_Count badge linking to `stargazers`, concise description, license, and maintain star-count descending order.
 4. Submit a **Pull Request** with a brief summary of the changes.
 
 ---
